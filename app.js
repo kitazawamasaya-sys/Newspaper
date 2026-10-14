@@ -114,7 +114,7 @@ const blockData = [
         deliveries: [
             { place: "やすらぎ１",          newspaper1: 3, newspaper2: 1, note: "" },
             { place: "やすらぎ２",          newspaper1: 5, newspaper2: 2, note: "" },
-            { place: "やすらぎ３",          newspaper1: 5, newspaper2: 1, note: "市民" },
+            { place: "寿楽",          newspaper1: 6, newspaper2: 2, note: "市民" },
             { place: "日滝",          newspaper1: 1, newspaper2: 0, note: "" }
         ]
     },
