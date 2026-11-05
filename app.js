@@ -44,14 +44,15 @@ const blockData = [
             { place: "左の右",          newspaper1: 1, newspaper2: 0, note: "" },
             { place: "左の左",          newspaper1: 1, newspaper2: 1, note: "" },
             { place: "鬱蒼",          newspaper1: 1, newspaper2: 0, note: "" },
-            { place: "白い家",          newspaper1: 1, newspaper2: 0, note: "" }
+            { place: "白い家",          newspaper1: 1, newspaper2: 0, note: "" },
+            { place: "特殊",          newspaper1: 0, newspaper2: 0, note: "聖教" }
         ]
     },
     {
         block: "縦２",
         deliveries: [
             { place: "右　四角",          newspaper1: 1, newspaper2: 0, note: "" },
-            { place: "左　作業場",          newspaper1: 1, newspaper2: 1, note: "農業" },
+            { place: "左　作業場",          newspaper1: 1, newspaper2: 1, note: "農業、聖教" },
             { place: "右　ハシゴ",          newspaper1: 1, newspaper2: 0, note: "" },
             { place: "左　赤ポスト",          newspaper1: 1, newspaper2: 1, note: "" },
             { place: "ハウス越えて",          newspaper1: 1, newspaper2: 1, note: "" },
@@ -114,7 +115,7 @@ const blockData = [
         deliveries: [
             { place: "やすらぎ１",          newspaper1: 3, newspaper2: 1, note: "" },
             { place: "やすらぎ２",          newspaper1: 5, newspaper2: 2, note: "" },
-            { place: "寿楽",          newspaper1: 6, newspaper2: 2, note: "市民" },
+            { place: "寿楽",          newspaper1: 6, newspaper2: 2, note: "市民、聖教" },
             { place: "日滝",          newspaper1: 1, newspaper2: 0, note: "" }
         ]
     },
