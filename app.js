@@ -81,7 +81,7 @@ const blockData = [
         ]
     },
     {
-        block: "工業",
+        block: "工業団地",
         deliveries: [
             { place: "コヤマ",          newspaper1: 0, newspaper2: 0, note: "工業" },
             { place: "角藤",          newspaper1: 0, newspaper2: 0, note: "経済" },
